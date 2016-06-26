@@ -58,6 +58,7 @@
     * [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
     * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
     * [Machine Learning: Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
+    * [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
     * [Intro to Java Programming](https://www.udacity.com/course/intro-to-java-programming--cs046)
     * [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
     * [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
