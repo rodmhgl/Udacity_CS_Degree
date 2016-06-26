@@ -1,2 +1,77 @@
-# Udacity_CS_Degree
-List of Udacity CS courses originally assembled by redditor my-shady-account
+  * **Math**
+    * [Intro Algebra Review](https://www.udacity.com/course/intro-algebra-review--ma004)
+    * [College Algebra](https://www.udacity.com/course/college-algebra--ma008)
+    * [Visualizing Algebra](https://www.udacity.com/course/visualizing-algebra--ma006)
+    * [Intro to Physics](https://www.udacity.com/course/intro-to-physics--ph100)
+    * [Intro to Statistics](https://www.udacity.com/course/statistics--st095)
+    * [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+    * [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+  * **Computer Science**
+    * [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
+    * [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
+  * **Programming Languages**
+    * [Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
+    * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+    * [Intro to Java Programming](https://www.udacity.com/course/intro-to-java-programming--cs046)
+    * [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+  * **Algorithms**
+      * [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
+      * [Computability, Complexity & Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)
+      * [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
+  * **Information Security**
+    * [Intro to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459)
+    * [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)
+  * **Databases**
+    * [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+  * **Networking**
+    * [Computer Networking](https://www.udacity.com/course/computer-networking--ud436)
+  * **Data Science**
+    * [Intro to Data Science (Intro to Statistics required) ](https://www.udacity.com/course/intro-to-data-science--ud359)
+  * **Linux**
+    * [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+    * [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+  * **Web Development**
+    * [Web Development](https://www.udacity.com/course/web-development--cs253)
+    * [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+    * [Responsive Web Design Fundamentals ](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+    * [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
+    * [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
+    * [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
+    * [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
+    * [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015)
+    * [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
+    * [How to Use Git and GitHub ](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+    * [Web Tooling & Automation ](https://www.udacity.com/course/web-tooling-automation--ud892)
+    * [Front End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
+    * [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
+    * [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+    * [HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
+    * [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+    * [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+    * [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+    * [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+    * [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+    * [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+    * [Developing Scalable Apps in Python](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858)
+    * [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+  * **Artificial Intelligence and Machine Learning**
+    * [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+    * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+    * [Machine Learning: Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
+    * [Intro to Java Programming](https://www.udacity.com/course/intro-to-java-programming--cs046)
+    * [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
+    * [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+  * **Android Development**
+    * [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837)
+    * [Android Basics: Multi-screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)
+    * [ How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+    * [Developing Android Apps](https://www.udacity.com/course/developing-android-apps--ud853)
+    * [Advanced Android App Development ](https://www.udacity.com/course/advanced-android-app-development--ud855)
+    * [Android Performance ](https://www.udacity.com/course/android-performance--ud825)
+    * [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
+    * [Firebase Essentials For Android](https://www.udacity.com/course/firebase-essentials-for-android--ud009)
+    * [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
+    * [How to Make a Platformer Using libGDX](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406)
+  * **Operating Systems**
+    * [Introduction to Operating Systems (C Language required)](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
+    * [Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
